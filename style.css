@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.judul{
+    background-color: red;
+    margin: 15px;
+    padding: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+}
+body{
+    background-image: url(img/duls.jpg);
+    background-size: cover;
+}
+header{
+    width: 100%;
+
+}
+.foto{
+    height: 250px;
+    width: 250px;
+}
