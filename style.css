@@ -4,12 +4,24 @@
 }
 
 .judul{
-    background-color: #406882;
-    margin: 15px;
-    padding: 15px;
-    font-weight: bold;
-    font-family: sans-serif;
-    color: white;
+   text-align: center;
+   font-size: 30px;
+   margin: 0;
+   font-weight: bold;
+   color: #08080a;
+}
+.text{
+    text-align: center;
+    font-size: 15px;
+    margin: 0;
+    color: #08080a;
+}
+p{
+    margin: auto;
+    padding-top: 20px;
+    width: 450px;
+    height: auto;
+    color: #08080a;
 }
 body{
     background-image: url(img/duls.jpg);
@@ -77,3 +89,5 @@ header{
     padding-right: 90px;
     border-radius: 50px;
 }
+
+ 
